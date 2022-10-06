@@ -1,0 +1,89 @@
+sim
+Nome: Gabriel
+Telefone: 993208342
+Email: gabriel@gmail.com
+Senha: 12Nome: Wagner
+Telefone: 97981
+Email: wagner.relvas@gmail.com
+Senha: Wagner321Nome: Gabriel
+Telefone: 993208342
+Email: gabriel@gmail.com
+Senha: 321Nome: g
+Telefone: 2
+Email: @gmail.com
+Senha: 321Nome: g
+Telefone: 23423
+Email: @gmail.com
+Senha: 321Nome: ad
+Telefone: 3
+Email: @gmail.com
+Senha: 321Nome: gab
+Telefone: 34123
+Email: @gmail.com
+Senha: 321Nome: Gabriel
+Telefone: 993208342
+Email: g@gmail.com
+Senha: 321Nome: a
+Telefone: 2
+Email: @gmail.com
+Senha: 2Nome: a
+Telefone: 3
+Email: @gmail.com
+Senha: 2Nome: g
+Telefone: 2
+Email: @gmail.com
+Senha: 2Nome: Gabriel
+Telefone: 993208342
+Email: gabriel@gmail.com
+Senha: 234Nome: g
+Telefone: 2
+Email: @gmail.com
+Senha: 2Nome: a
+Telefone: 2
+Email: @gmail.com
+Senha: 2Nome: a
+Telefone: 2
+Email: @gmail.com
+Senha: 2Nome: g
+Telefone: 2
+Email: @gmail.com
+Senha: 2
+NovaSenha: assaNome: Wagner
+Telefone: 97981022556
+Email: wagner.relvas@gmail.com
+Senha: Wagner321Nome: df
+Telefone: 3
+Email: @gmail.com
+Senha: 321
+Nome: gabriel
+Telefone: 993
+Email: @gmail.com
+Senha: 321
+Nome: a
+Telefone: 1234
+Email: @gmail.com
+Senha: 321
+Nome: Gabriel
+Telefone: 993
+Email: @gmail.com
+Senha: d
+Nome: Daniela
+Telefone: 993208342
+Email: f@gmail.com
+Senha: flamengo
+Nome: ('ab', 'silv')
+Telefone: 43
+Email: @gmail.com
+Senha: fla321
+Nome: g,s
+Telefone: 321
+Email: @gmail.com
+Senha: 321
+Nome: GabrielCarvalho
+Telefone: 993208342
+Email: gabriel@gmail.com
+Senha: flamengo
+Nome: g a
+Telefone: 3
+Email: @gmail.com
+Senha: aaaaaa
